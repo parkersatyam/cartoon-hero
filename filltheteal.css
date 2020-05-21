@@ -1,8 +1,16 @@
 body{
-	background-color: teal;
+	background-color: darkslategrey;
+}
+h1{
+	font-size: 40px;
+	color: orange;
 }
 
 h2{
-	font-size: 30px
+	font-size: 30px;
 	color: red;
+}
+p{
+	font-size: 25px;
+	color: lightcoral;
 }
